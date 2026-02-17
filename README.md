@@ -12,15 +12,14 @@
 ```typescript
 const alan = {
     location: "Mexico City, MX 🇲🇽",
-    education: "Computer Engineering @ UNAM 🎓",
-    role: "Backend Developer",
-    passions: ["Clean Architecture", "Creative UI/UX", "Cybersecurity"],
+    education: "Computer Engineering @ UNAM",
+    passions: ["Backend", "Creative UI/UX", "Cybersecurity"],
     currently: {
-        learning: ["Kotlin for Android 📱", "Advanced Cybersecurity 🛡️"],
+        learning: ["Kotlin for Android", " Cybersecurity"],
         building: "RESTful APIs with security-first mindset",
-        rice: "Custom Hyprland setup with liquid glass aesthetics 💜"
+        rice: "Custom Hyprland setup with liquid glass aesthetics"
     },
-    funFact: "I design interfaces by day, compose music by night 🎹🎸"
+    funFact: "I design interfaces by day, compose music by night"
 };
 ```
 
@@ -35,7 +34,7 @@ const alan = {
 #### 💻 Backend Engineering
 Building robust, scalable REST APIs with a focus on **security** and **performance**. From authentication flows (JWT, RBAC) to optimized NoSQL queries, I architect systems that scale.
 
-**Highlight Project:** 🏗️ [**Sistema Lonja API**](https://github.com/AlnOtzar)  
+**Highlight Project:** 🏗️ [**Sistema Lonja API**](https://github.com/AlnOtzar)
 Full-featured ERP backend with advanced security implementation.
 
 </td>
@@ -60,7 +59,7 @@ Passionate about secure systems. Currently diving deep into network security, pe
 <td width="50%">
 
 #### 🚀 Avionics Leadership
-Led the **avionics team** at ANTARES Rocketry Club (UNAM), coordinating sensor design and electronic recovery systems for experimental rockets.
+Led the **avionics team** at Rocketry Club (UNAM), coordinating sensor design and electronic recovery systems for experimental rockets.
 
 *Multidisciplinary engineering at its finest.*
 
@@ -105,32 +104,22 @@ Led the **avionics team** at ANTARES Rocketry Club (UNAM), coordinating sensor d
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlnOtzar&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=E879F9&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnOtzar&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlnOtzar&theme=synthwave&hide_border=true&background=0D1117&stroke=A78BFA&ring=E879F9&fire=F472B6&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
----
-
-### 🖥️ My Hyprland Setup
+### y Hyprland Setup
 
 <div align="center">
 
-> **Custom Arch Linux rice with liquid glass aesthetics**  
+> **Custom Arch Linux rice with liquid glass aesthetics**
 > *Hyprland • Kitty • Vim • Transparencies crafted from scratch*
 
 <br/>
 
 <!-- Placeholder para tu screenshot -->
-<img src="https://via.placeholder.com/800x450/1a1a2e/a78bfa?text=📸+Add+your+Hyprland+screenshot+here" alt="Hyprland Setup" width="80%"/>
+<img src="/cap1.png" alt="Hyprland Setup" width="80%"/>
+<img src="/cap2.png" alt="Hyprland 2" width="80%"/>
 
-<sub>*Everything you see is built by hand—no bloat, pure aesthetics* ✨</sub>
+
+<sub>*Everything you see is built by hand—no bloat, pure aesthetics*</sub>
 
 </div>
 
@@ -145,7 +134,7 @@ Led the **avionics team** at ANTARES Rocketry Club (UNAM), coordinating sensor d
 #### 🎹 Music Creator
 When I'm not coding, I'm composing. Multi-instrumentalist exploring sound:
 - 🎹 Piano
-- 🎸 Guitar  
+- 🎸 Guitar
 - 🪈 Flute
 - 🎶 Kalimba
 
@@ -165,7 +154,7 @@ Always brainstorming interfaces, layouts, and visual experiences. Design isn't j
 
 ---
 
-### 🌐 Let's Connect
+### Contact
 
 <div align="center">
 
